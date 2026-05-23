@@ -40,7 +40,7 @@ The dashboard was designed to help businesses identify high-risk customer segmen
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Dashboard_Preview.png)
 
 ---
 
